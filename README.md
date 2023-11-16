@@ -40,3 +40,7 @@ Principales características ofrecidas por la solución digital:
         2.- Ofrece acceso a boletas electrónicas que detallan cada donación realizada.
         3.- Brinda acceso a una lista de ONG's veríficas para que los donantes pueda elegir la que prefieran.
         4.- Mostrar el estado financiero de la ONG para que esta pueda adminsitrar mejor los ingresos.
+
+Acerca de nosotros:
+
+      https://youtu.be/9E_WyxZrBvU?si=n_1EEJjZPB8xRHYQ
